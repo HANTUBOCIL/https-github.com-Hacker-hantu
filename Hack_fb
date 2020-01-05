@@ -1,0 +1,13 @@
+$ pkg update && pkg upgrade
+$ pkg install python2
+$ pkg install toilet
+$ pip2 install requests
+$ pip2 install mechanize
+$ pkg install git
+$ git clone https://github.com/goyang/Hantu
+$ ls
+$ cd hantu
+$ sh v1.sh
+
+
+Pake ajah bang gx bayar kok
