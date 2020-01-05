@@ -8,13 +8,13 @@ $ pkg install php
 
 $ pkg install ruby && gem install lolcat
 
-$ git clone https://github.com/pengangguranmuda/NewsX
+$ git clone https://github.com/HACKER/Hantu
 
 $ ls
-$ cd NewsX
+$ cd HANTU
 $ ls
-$ chmod +x newsx.sh
+$ chmod +x Hantu.sh
 $ ls
-$ sh newsx.sh
+$ sh hantu.sh
 
 SUBSCRIBE LAH SOB GRATIS KOK KAGA BAYAR:)
