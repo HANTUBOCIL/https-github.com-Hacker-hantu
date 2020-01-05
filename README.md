@@ -1,2 +1,2 @@
-# https-github.com-Hacker-hantu
+# https://github.com/HACKER/Hantu
 Gunakan script dengan bijak
