@@ -4,10 +4,9 @@ $ pkg install toilet
 $ pip2 install requests
 $ pip2 install mechanize
 $ pkg install git
-$ git clone https://github.com/goyang/Hantu
-$ ls
+$ https://github.com/HANTUBOCIL/https-github.com-Hacker-hantu/edit/master/Hack_fb
 $ cd hantu
-$ sh v1.sh
+$ sh HANTU.sh
 
 
 Pake ajah bang gx bayar kok
